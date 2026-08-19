@@ -1,0 +1,5 @@
+com\smartcity\frontend\RegisterView.class
+com\smartcity\frontend\MainApp.class
+com\smartcity\frontend\ApiClient.class
+com\smartcity\frontend\HomeView.class
+com\smartcity\frontend\LoginView.class

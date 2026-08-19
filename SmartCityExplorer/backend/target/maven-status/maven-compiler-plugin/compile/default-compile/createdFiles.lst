@@ -1,0 +1,13 @@
+com\smartcity\repository\RestaurantRepository.class
+com\smartcity\model\Hotel.class
+com\smartcity\controller\HotelController.class
+com\smartcity\model\Restaurant.class
+com\smartcity\repository\UserRepository.class
+com\smartcity\SmartCityBackendApplication.class
+com\smartcity\repository\PlaceRepository.class
+com\smartcity\controller\PlaceController.class
+com\smartcity\controller\UserController.class
+com\smartcity\repository\HotelRepository.class
+com\smartcity\controller\RestaurantController.class
+com\smartcity\model\Place.class
+com\smartcity\model\User.class
